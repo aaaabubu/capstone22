@@ -2,7 +2,7 @@
 
 > 팀명: InTrip(Introduce + Trip) <br>
   이름: 안진홍 (팀원: 디자인 담당) <br>
-  졸업작품 소개 사이트: URL <br>
+  졸업작품 소개 사이트: https://capstone22.netlify.app/ <br>
   포트폴리오 소개 사이트: URL <br>
   
 ## 졸업 작품 소개
