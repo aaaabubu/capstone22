@@ -31,11 +31,13 @@
 ```
     1. 홈페이지 로고 디자인
     2. 여행지 정보 조사(자료조사)
-    3. (주말) 지역 상세 페이지 디자인 - 팀원들과 회의, 피드백 공유
-    ![image](https://user-images.githubusercontent.com/35441691/161433925-76f86e5d-2f15-404a-a828-1651f56f251d.png)
-
+    3. (주말) XD로 지역 상세 페이지 디자인 - 팀원들과 회의, 피드백 공유
+    4. 여행지 자료조사 (ppt 정리)
 
 ```
+![image](https://user-images.githubusercontent.com/35441691/161433994-896c10ca-8e0f-47fa-b0c7-5a16a679e575.png)
+![image](https://user-images.githubusercontent.com/35441691/161434113-d22c72cf-e03e-44e0-96bd-7817f17e0bb7.png)
+
 
 #### 4주차(3월 23일)
 ```
