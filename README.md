@@ -30,8 +30,12 @@
 
 #### 9주차(4월 27일)
 ```
-    
+    1. 기타 노선작업
+    2. 사진참고
 ```
+![image](https://user-images.githubusercontent.com/35441691/165907041-b721bc3a-bbe5-4497-b2e1-5fe2b1673818.png)
+![image](https://user-images.githubusercontent.com/35441691/165907071-b235e3c4-b59f-4d34-a122-a20d51be8d8e.png)
+
 
 #### 8주차(4월 20일)
 ```
