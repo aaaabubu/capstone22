@@ -25,9 +25,20 @@
 | [8주차] | x | x | 중간고사 |
 | [9주차] | ○ | ○ | 지하철 상세페이지 디자인 |
 | [10주차] | ○ | ○ | 지하철 기능 구상 회의 |
+| [11주차] | ○ | ○ | 소개 페이지  |
 
 
 ### 개발 일지
+
+#### 10주차(5월 04일)
+```
+    1. 소개 페이지 제작
+```
+![image](https://user-images.githubusercontent.com/35441691/168237538-e9295d35-1943-470b-8e5f-a03925d02cbb.png)
+![image](https://user-images.githubusercontent.com/35441691/168237605-33c298a0-c1db-4da2-96e6-548a1f6b5d80.png)
+![image](https://user-images.githubusercontent.com/35441691/168237828-f1d97977-16ec-42d8-9059-f6a08b54cf27.png)
+
+
 
 
 #### 10주차(5월 04일)
@@ -39,6 +50,7 @@
 네이버 지도 api 사이트: https://www.ncloud.com/product/applicationService/maps
 
 ![image](https://user-images.githubusercontent.com/35441691/167065321-1625aa0c-8d57-4a80-8928-52e969edcb1c.png)
+
 
 #### 9주차(4월 27일)
 ```
